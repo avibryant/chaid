@@ -42,5 +42,10 @@
         <artifactId>commons-math3</artifactId>
         <version>3.0</version>
       </dependency>
+       <dependency>
+          <groupId>com.twitter</groupId>
+          <artifactId>algebird-core_2.9.2</artifactId>
+          <version>0.1.13</version>
+      </dependency>
   </dependencies>
 </project>
